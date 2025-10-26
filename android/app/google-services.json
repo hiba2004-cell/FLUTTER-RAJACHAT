@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744380981273",
+    "project_id": "social-media-app-7fa1f",
+    "storage_bucket": "social-media-app-7fa1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744380981273:android:919f84259142c5b709ca88",
+        "android_client_info": {
+          "package_name": "com.nurox.nurox_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744380981273-k22bvf4a0vf516so972du1jhk972u9mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nurox.nurox_chat",
+            "certificate_hash": "e11dd903b85fad0e8a6dcf6fc9abac4c00a0cabe"
+          }
+        },
+        {
+          "client_id": "744380981273-7o88ave6e6d73jh8mrdt18dmhcjj2h9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDki_iSHD1_wW1SVTmUns0jaoJaq8ftWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744380981273-7o88ave6e6d73jh8mrdt18dmhcjj2h9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
